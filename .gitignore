@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Xcode
+build/
+*.xcworkspace
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcuserdata
+
+# SwiftPM
+.build/
+
+# CocoaPods
+Pods/
